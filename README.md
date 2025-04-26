@@ -107,7 +107,7 @@ Follow these steps to run the project locally on your machine:
 
 | Question View | Timer Progress | Quiz Summary |
 |:-------------:|:--------------:|:------------:|
-| ![Question](![image](https://res.cloudinary.com/tawfeer/image/upload/v1745680836/nrxr0ejds85ntn0cmfvf.png)) | ![Timer](![image](https://res.cloudinary.com/tawfeer/image/upload/v1745681054/kz5kfhsfliqxcozh8l0p.png)) | ![Summary](![image](https://res.cloudinary.com/tawfeer/image/upload/v1745680975/zlxxtdcdtphn3qeyiscd.png)) |
+| ![Question](https://res.cloudinary.com/tawfeer/image/upload/v1745680836/nrxr0ejds85ntn0cmfvf.png) | ![Timer](https://res.cloudinary.com/tawfeer/image/upload/v1745681054/kz5kfhsfliqxcozh8l0p.png) | ![Summary](https://res.cloudinary.com/tawfeer/image/upload/v1745680975/zlxxtdcdtphn3qeyiscd.png) |
 
 ---
 
